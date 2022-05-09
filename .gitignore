@@ -1,0 +1,8 @@
+# Data Files + Zip Files
+
+*.zip
+*.csv
+
+# VS Code Stuff
+
+*.vscode
