@@ -4,5 +4,11 @@ This repository contains all of my Kaggle submissions.
 
 ## Statistics
 
-\# of Submissions: \[WIP\]
-\# of In Progress \[WIP\]
+\# of Submissions:
+
+### 01-Titanic Survivors
+
+Attempt 2022-05-09
+
+- Validation Accuracy: X%
+- Test (Submission) Accuracy: X%
