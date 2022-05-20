@@ -2,6 +2,7 @@
 
 *.zip
 *.csv
+*/data/*
 
 # VS Code Stuff
 
